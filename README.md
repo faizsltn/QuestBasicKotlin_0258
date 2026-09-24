@@ -21,6 +21,7 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 ---
 
 ## 2. Data Types
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acc5cdfa-e720-4f9e-8db8-c818df90d3f2" />
 
 
 ---
