@@ -28,7 +28,8 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 
 ## 3. Collections
 
-![Collections](image-2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2c8d5d9-e204-4da3-bbbd-df1b2fa54799" />
+
 
 ---
 
