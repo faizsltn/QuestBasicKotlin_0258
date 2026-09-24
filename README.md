@@ -42,7 +42,8 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 
 ## 5. Functions & Lambdas
 
-![Functions & Lambdas](image-4.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7864395d-0471-4c6e-a618-85edc77b91df" />
+
 
 ---
 
