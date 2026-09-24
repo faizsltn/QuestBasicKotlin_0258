@@ -49,4 +49,5 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 
 ## 6. Classes & Null Safety
 
-![Classes & Null Safety](image-5.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13ef1395-55d3-4905-9855-9f86a0579bf8" />
+
