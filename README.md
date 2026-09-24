@@ -16,13 +16,12 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 
 ## 1. Hello World & Variables
 
-![Hello World & Variables](image.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a69441e-37fc-45bc-88a8-44e03b53ccb6" />
 
 ---
 
 ## 2. Data Types
 
-![Data Types](image-1.png)
 
 ---
 
