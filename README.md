@@ -35,7 +35,8 @@ Repositori ini berisi dokumentasi dan implementasi latihan dasar bahasa pemrogra
 
 ## 4. Control Flow
 
-![Control Flow](image-3.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bc8de40-0a2c-44dc-91f8-d3c83f66d4dc" />
+
 
 ---
 
